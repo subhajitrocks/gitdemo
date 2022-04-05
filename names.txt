@@ -1,5 +1,4 @@
 subhajit adhikary
 ankit patanjali
-shreyans sharma
-<<<<<<< HEAD
+shreyans buddy
 varun dhall
