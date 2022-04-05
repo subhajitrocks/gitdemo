@@ -1,2 +1,2 @@
 new file is there in master
-added a new line in local master, this is nice.
+added a new line in local newbranch, this is nice.
